@@ -1,0 +1,5 @@
+X:\SCHOOL\Hoornbeeck\JAAR 2\SEMESTER 2\BLOK 3\AudioDevices\AudioDevices\bin\Debug\AudioDevices.dll
+X:\SCHOOL\Hoornbeeck\JAAR 2\SEMESTER 2\BLOK 3\AudioDevices\AudioDevices\bin\Debug\AudioDevices.pdb
+X:\SCHOOL\Hoornbeeck\JAAR 2\SEMESTER 2\BLOK 3\AudioDevices\AudioDevices\obj\Debug\AudioDevices.csprojResolveAssemblyReference.cache
+X:\SCHOOL\Hoornbeeck\JAAR 2\SEMESTER 2\BLOK 3\AudioDevices\AudioDevices\obj\Debug\AudioDevices.dll
+X:\SCHOOL\Hoornbeeck\JAAR 2\SEMESTER 2\BLOK 3\AudioDevices\AudioDevices\obj\Debug\AudioDevices.pdb
